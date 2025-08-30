@@ -1,5 +1,7 @@
 site_name: Jiemeng
 site_url: https://vescrity.github.io/Jiemeng_Doc
+repo_url: https://github.com/vescrity/QBot_Jiemeng
+repo_name: vescrity/QBot_Jiemeng
 theme:
   language: zh
   name: material
@@ -13,6 +15,7 @@ theme:
     - navigation.tabs.sticky  # 粘性导航栏
     - navigation.top          # 回到顶部
     - toc.follow              # 边栏自动滚动
+
 
 
 markdown_extensions: # markdown扩展插件
