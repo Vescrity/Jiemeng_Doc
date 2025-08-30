@@ -15,5 +15,8 @@ theme:
 
 nav:
   - "index.md"
+  - 配置:
+    - config/config.md
+    - config/answer.md
   - 插件:
     - "plugins/index.md"
