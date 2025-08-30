@@ -16,7 +16,9 @@ theme:
 nav:
   - "index.md"
   - 配置:
-    - config/config.md
-    - config/answer.md
+    - "config/config.md"
+    - "config/answer.md"
+  - 牌堆:
+    - "deck/index.md"
   - 插件:
     - "plugins/index.md"
