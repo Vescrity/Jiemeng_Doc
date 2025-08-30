@@ -1,4 +1,19 @@
 site_name: Jiemeng
 site_url: https://vescrity.github.io/Jiemeng_Doc
 theme:
+  language: zh
   name: material
+  features:
+    - content.code.copy 
+    - navigation.footer
+    - navigation.instant      # 内部链接即时加载
+    - navigation.tabs         # 页顶导航栏
+    - navigation.tabs.sticky  # 粘性导航栏
+    - navigation.top          # 回到顶部
+    - toc.follow              # 边栏自动滚动
+
+
+nav:
+  - "index.md"
+  - 插件:
+    - "plugins/index.md"
