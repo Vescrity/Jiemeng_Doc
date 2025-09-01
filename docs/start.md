@@ -42,7 +42,7 @@
   "lua_state_list": [
     {
       "name": "chat",
-      "path": "user_luarc/chat"
+      "path": "lualib/chat"
     }
   ],
   "group_list": [],
